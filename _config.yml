@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to Chantel's homepage!
 description: Please bookmark this page to keep track of my data science projects
+permalink: /blog/:year/:month/:day/:title
