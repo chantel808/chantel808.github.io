@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Vaccine Interest Map - Interactive"
+date: 2020-04-01
+---
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" /></head>
