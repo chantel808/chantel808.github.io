@@ -8,7 +8,9 @@ date: 2020-04-01
 <head><meta charset="utf-8" /></head>
 <body>
 	<p>My first data science capstone analyzed U.S. public interest in vaccines using data from the Google Trends API, and explored interest levels across space and time. A predictive ARIMA model was created to forecast interest by state, which could help federal health organizations and national nonprofit organizations to make decisions about where to allocate resources for vaccine education. The dataset ‘Health searches by U.S. Metropolitan Area, 2004-2017’ (Google News Lab, 2018) containing Google query interest levels was used for this project. </p>
-	<p>This is an interactive map created for my first data science capstone: <a href='https://github.com/chantel808/Springboard_Capstone1'> https://github.com/chantel808/Springboard_Capstone1 </a>. Move the slider below map to view the changes in vaccine interest levels across the U.S. </p>
+    <p>Vaccine interest by U.S. region:
+	<img src='https://github.com/chantel808/Springboard_Capstone1/blob/master/swarmplot_data.png'> </p>
+	<p>Below is an interactive map of vaccine interest across the U.S.: <a href='https://github.com/chantel808/Springboard_Capstone1'> https://github.com/chantel808/Springboard_Capstone1 </a>. Move the slider below map to view the changes in vaccine interest levels across the U.S. </p>
 <div>        
 <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
 <script type="text/javascript">
