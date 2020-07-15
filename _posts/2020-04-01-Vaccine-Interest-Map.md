@@ -7,10 +7,10 @@ date: 2020-04-01
 <html>
 <head><meta charset="utf-8" /></head>
 <body>
-	<p>My first data science capstone analyzed U.S. public interest in vaccines using data from the Google Trends API, and explored interest levels across space and time. A predictive ARIMA model was created to forecast interest by state, which could help federal health organizations and national nonprofit organizations to make decisions about where to allocate resources for vaccine education. The dataset ‘Health searches by U.S. Metropolitan Area, 2004-2017’ <a href='https://www.kaggle.com/GoogleNewsLab/health-searches-us-county'>(Google News Lab, 2018)</a> containing Google query interest levels was used for this project. </p>
+	<p>My first data science capstone analyzed U.S. public interest in vaccines using data from the Google Trends API, and explored interest levels across space and time. A predictive ARIMA model was created to forecast interest by state, which could help federal health organizations and national nonprofit organizations to make decisions about where to allocate resources for vaccine education. The dataset ‘Health searches by U.S. Metropolitan Area, 2004-2017’ <a href='https://www.kaggle.com/GoogleNewsLab/health-searches-us-county'>(Google News Lab, 2018)</a> containing Google query interest levels was used for this project. Github repo: <a href='https://github.com/chantel808/Springboard_Capstone1'> https://github.com/chantel808/Springboard_Capstone1 </a>. </p>
     <p>Vaccine interest by U.S. region:
-	<img src='https://github.com/chantel808/Springboard_Capstone1/blob/master/swarmplot_data.png?raw=true'> </p>
-	<p>Below is an interactive map of vaccine interest across the U.S.: <a href='https://github.com/chantel808/Springboard_Capstone1'> https://github.com/chantel808/Springboard_Capstone1 </a>. Move the slider below map to view the changes in vaccine interest levels across the U.S. </p>
+	<img src='https://github.com/chantel808/Springboard_Capstone1/blob/master/swarmplot_data.png?raw=true' style="width:600px;height:400px;"> </p>
+	<p>Below is an interactive map of vaccine interest across the U.S. Move the slider below map to view the changes in vaccine interest levels across the U.S. </p>
 <div>        
 <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
 <script type="text/javascript">
