@@ -13,7 +13,7 @@ date: 2020-04-01
 			</ul> 
 		</p>
     <p>Vaccine interest by U.S. region:
-	<img src='https://github.com/chantel808/Springboard_Capstone1/blob/master/swarmplot_data.png?raw=true' style="width:750;height:400px;"> </p>
+	<img src='https://github.com/chantel808/Springboard_Capstone1/blob/master/swarmplot_data.png?raw=true' style="width:725;height:400px;"> </p>
 	<p>Below is an interactive map of vaccine interest across the U.S. Move the slider below map to view the changes in vaccine interest levels across the U.S. </p>
 <div>        
 <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
